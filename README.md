@@ -41,7 +41,7 @@ Para este desarrollo, utilicé un enfoque de **Infraestructura como Código**:
   <img width="1395" height="778" alt="image" src="https://github.com/user-attachments/assets/4d809f94-1325-4f18-ba54-e10a23051b94" />
 </div>
 <ul>
-  <li><strong>Matriz de Penetración:</strong> Cruce de datos para entender qué producto dominan en cada país.</li>
+  <li><strong>Matriz de Penetración:</strong> Cruce de datos para entender qué productos dominan en cada país.</li>
   <li><strong>Filtros Visuales:</strong> Implementación de Treemaps para una navegación intuitiva por el catálogo.</li>
 </ul>
 
