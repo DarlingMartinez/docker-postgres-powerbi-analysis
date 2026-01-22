@@ -28,7 +28,7 @@ Para este desarrollo, utilicé un enfoque de **Infraestructura como Código**:
 
 ### 1️⃣ Página 1: Overview de Ventas (Salud del Negocio)
 <div align="center">
-<img width="1306" height="729" alt="image" src="https://github.com/user-attachments/assets/148c9bd2-ff54-43d9-9d5a-54f42df541d2" />
+<img width="1438" height="789" alt="image" src="https://github.com/user-attachments/assets/cdca0f6b-5081-4acf-9483-b1684e87c5fd" />
 </div>
 <ul>
   <li><strong>KPIs Críticos:</strong> Monitoreo de Ingresos, Volumen de Operación y Ticket Promedio.</li>
@@ -38,16 +38,16 @@ Para este desarrollo, utilicé un enfoque de **Infraestructura como Código**:
 
 ### 2️⃣ Página 2: Desempeño Regional (Análisis Profundo)
 <div align="center">
-  <img src="img/regional.png" width="800px" alt="Análisis Regional" />
+  <img width="1395" height="778" alt="image" src="https://github.com/user-attachments/assets/4d809f94-1325-4f18-ba54-e10a23051b94" />
 </div>
 <ul>
-  <li><strong>Matriz de Penetración:</strong> Cruce de datos para entender qué categorías dominan en cada país.</li>
+  <li><strong>Matriz de Penetración:</strong> Cruce de datos para entender qué producto dominan en cada país.</li>
   <li><strong>Filtros Visuales:</strong> Implementación de Treemaps para una navegación intuitiva por el catálogo.</li>
 </ul>
 
 ### 3️⃣ Página 3: Análisis de Tendencias y Futuro
 <div align="center">
-  <img src="img/tendencias.png" width="800px" alt="Tendencias" />
+<img width="1282" height="773" alt="image" src="https://github.com/user-attachments/assets/c91e1f80-5edb-40f5-9a59-5ad8b27da1cf" />
 </div>
 <ul>
   <li><strong>Gráfico de Dispersión:</strong> Clasificación de productos en "Estrellas" y "Premium" para optimizar precios.</li>
