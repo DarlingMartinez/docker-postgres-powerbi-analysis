@@ -1,0 +1,13 @@
+services:
+  db:
+    image: postgres:15
+    container_name: postgres_Power
+    restart: always
+    environment:
+      POSTGRES_USER: fix_admin
+      POSTGRES_PASSWORD: password_provisional
+      POSTGRES_DB: Datos_Prueba
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./datos_postgres:/var/lib/postgresql/data:Z
